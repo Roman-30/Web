@@ -9,7 +9,6 @@ import java.util.Date;
 import java.util.Random;
 import java.util.TimeZone;
 
-@Indexed
 @Document
 public class Weather {
     @Id
